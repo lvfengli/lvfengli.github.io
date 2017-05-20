@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/05/20/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%A5%BD%E5%95%A6/</loc>
+    <lastmod>2017-05-20T06:23:59.322Z</lastmod>
+    <data>
+        <display>
+        <title>hexo博客搭好啦</title>
+        <pubTime>2017-05-20T01:40:24.000Z</pubTime>
+        
+        <tag>随笔</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/05/20/hello-world/</loc>
+    <lastmod>2017-05-20T00:28:34.883Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-05-20T00:28:34.837Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
