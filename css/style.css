@@ -1,4 +1,7 @@
 /* reset */
+#SOHUCS>div[node-type='is-icp'] {
+  display: none;
+}
 body,
 dl,
 dt,
